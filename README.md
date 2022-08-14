@@ -1,7 +1,8 @@
 # ML_RG_mapping
-Repository that contains the source code of the U-Net ANN implementation of the paper "Increasing Consistency and Completeness of Rock Glacier Inventories with Machine Learning – the example of Austria"
+Repository that contains the source code of the U-Net ANN implementation of the paper "Machine learning – An approach for consistent rock glacier mapping and inventorying – Example of Austria"
 
-The paper was submitted to the Journal "Applied Computing and Geosciences" in September 2021.
+The paper is published in the Journal "Applied Computing and Geosciences" with the DOI:
+https://doi.org/10.1016/j.acags.2022.100093
 
 This U-Net Implementation is a modified version of
 https://github.com/malhotraa/carvana-image-masking-challenge
